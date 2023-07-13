@@ -1,7 +1,15 @@
 
 # React Calculator
 
-This is a simple calculator app built with React. It allows users to perform basic arithmetic calculations like addition, subtraction, multiplication, and division. 
+This is a simple calculator app built with React showcasing proficiency in React components, state management with useReducer, and responsive design techniques. It allows users to perform basic arithmetic calculations like addition, subtraction, multiplication, and division. 
+
+## Key Features:
+ - Implemented a calculator interface with a user-friendly layout and intuitive design.
+ - Utilized React components to modularize the calculator's different sections, such as display, buttons, and operators.
+ - Managed the state of the calculator using the `useReducer` hook, enabling efficient state updates and calculations.
+ - Supported basic arithmetic operations, including addition, subtraction, multiplication, and division.
+ - Implemented additional functionality, such as decimal point support and the ability to clear the input or perform backspace operations.
+ - Ensured a responsive design that adapts to different screen sizes, providing an optimal user experience across devices.
 
 ## Getting Started
 
@@ -31,9 +39,9 @@ You can then view the app by opening http://localhost:3000 in your browser.
 To use the calculator, simply enter two numbers and select an operator to perform a calculation. The result will be displayed in the output field. 
 
 ## Built With
-
-- React
-- CSS
+ - **React:** Leveraged React library for building the calculator application.
+ - **JavaScript:** Utilized JavaScript for handling calculations and interactive behavior.
+ - **HTML/CSS:** Created the calculator's user interface with HTML for structure and CSS for styling.
 
 ## Contributing
 
