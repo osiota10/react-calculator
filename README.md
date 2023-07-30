@@ -9,7 +9,7 @@ This is a simple calculator app built with React showcasing proficiency in React
  - Managed the state of the calculator using the `useReducer` hook, enabling efficient state updates and calculations.
  - Supported basic arithmetic operations, including addition, subtraction, multiplication, and division.
  - Implemented additional functionality, such as decimal point support and the ability to clear the input or perform backspace operations.
- - Ensured a responsive design that adapts to different screen sizes, providing an optimal user experience across devices.
+ - Ensured a responsive design that adapts to different screen sizes, providing an optimal user experience across devices.........
 
 ## Getting Started
 
